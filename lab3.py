@@ -3,3 +3,9 @@ def write_text_file():
         file.write("Your Name")
 
 write_text_file()
+
+
+def helloWorld():
+    print('Hello World')
+
+helloWorld()
